@@ -21,12 +21,19 @@ For every test case your program should write to the standard output only one li
 Only one test case.
 
 Input:
+
 5 10
+
 4
+
 1 8
+
 5 8
+
 7 10
+
 8 9
+
 
 Output:
 1 4
