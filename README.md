@@ -23,17 +23,12 @@ Only one test case.
 Input:
 
 5 10
-
 4
-
 1 8
-
 5 8
-
 7 10
-
 8 9
 
-
 Output:
+
 1 4
