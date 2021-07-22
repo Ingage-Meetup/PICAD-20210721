@@ -1,0 +1,23 @@
+{
+  "name": "picad-20210721",
+  "version": "1.0.0",
+  "description": "Sherlock Holmes is carrying out an investigation into the crime at Piccadily Circus. Holmes is trying to determine the maximal and minimal number of people staying simultaneously at the crime scene at a moment when the crime could have been commited. Scotland Yard has already carried out a thorough investigation already, interrogated everyone seen at the crime scene and determined what time they appeared at the crime scene and what time they left. Doctor Watson offered his help to process the data gathered by Scotland Yard and find the numbers interesting Sherlock Holmes, but he has some difficulties. Help him!",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test-watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ingage-Meetup/PICAD-20210721.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ingage-Meetup/PICAD-20210721/issues"
+  },
+  "homepage": "https://github.com/Ingage-Meetup/PICAD-20210721#readme",
+  "dependencies": {
+    "jest": "^27.0.6"
+  }
+}
